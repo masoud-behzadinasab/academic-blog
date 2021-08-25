@@ -6,7 +6,7 @@ title: Masoud Behzadinasab
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
