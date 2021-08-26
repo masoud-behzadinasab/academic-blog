@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher in the School of Engineering at Brown University. My research interests include computational mechanics, fracture mechanics, fluid-structure interaction, data-driven mechanics, and machine learning. I work on development of accurate, efficient, and robust computational tools for predicting behavior of solid structures and fluid flows in extreme conditions (e.g. blast eventsss).
+I am a postdoctoral researcher in the School of Engineering at Brown University. My research interests include computational mechanics, fracture mechanics, fluid-structure interaction, data-driven mechanics, and machine learning. I work on development of accurate, efficient, and robust computational tools for predicting behavior of solid structures and fluid flows in extreme conditions (e.g. blast events).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
