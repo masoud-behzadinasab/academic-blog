@@ -5,7 +5,7 @@
 
 title: Masoud Behzadinasab # Website name
 baseurl: 'https://masoudbehzadinasab.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Masoud Behzadinasab' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
