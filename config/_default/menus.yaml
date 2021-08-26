@@ -7,11 +7,14 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 1
   - name: Posts
     url: '#posts'
     weight: 20
-    menu: mainn
+  - name: Publication
+    url: "my_pubs/"
+    #url: '#publications'
+    weight: 2
   - name: Projects
     url: '#projects'
     weight: 30
@@ -25,18 +28,9 @@ main:
     url: '#contact'
     weight: 60
 
-  - name: Publication
-    url: '#publications'
-    weight: 50
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
-
----
-menu: ["mainn", "footer"]
----
-
 
