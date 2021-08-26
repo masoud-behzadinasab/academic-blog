@@ -15,7 +15,7 @@ jobs:
           # fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: masoud-behzadinasab/actions-hugo@v2
+        uses: masoudbehzadinasab/actions-hugo@v2
         with:
           hugo-version: '0.87.0'
           extended: true
@@ -24,11 +24,11 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: masoud-behzadinasab/actions-gh-pages@v3
+        uses: masoudbehzadinasab/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: masoud-behzadinasab.github.io
+          cname: masoudbehzadinasab.github.io
           allow_empty_commit: true
-          external_repository: masoud-behzadinasab/masoud-behzadinasab.github.io
+          external_repository: masoudbehzadinasab/masoudbehzadinasab.github.io

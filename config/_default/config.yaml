@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Masoud Behzadinasab # Website name
-baseurl: 'https://masoud-behzadinasab.github.io/' # Website URL
+baseurl: 'https://masoudbehzadinasab.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
