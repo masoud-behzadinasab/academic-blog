@@ -8,7 +8,8 @@ design:
 ---
 
 ## **Technical Program Committees**
-- The 19th U.S. National Congress on Theoretical and Applied Mechanics, Austin, TX, 2022
+- The 19th U.S. National Congress on Theoretical and Applied Mechanics <a href="http://www.usnctam2022.org">(USNC/TAM 2022)</a>, Austin, TX, 2022
+
 
 ## **Journal Reviewer**
 - International Journal of Solids and Structures
