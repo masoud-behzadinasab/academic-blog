@@ -28,6 +28,7 @@ main:
     weight: 7
   - name: CV
     url: "uploads/CV.pdf"
+    hrefTargetBlank: true
     weight: 8
   #- name: Talks
     #url: '#talks'
