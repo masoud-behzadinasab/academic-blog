@@ -20,7 +20,7 @@ design:
 - Poster award winner, UT Graduate And Industry Networking Event, 2018
 - The University of Texas incoming graduate student full scholarship, 2013
 - SIAWE Scholarship (an award for talented Iranian students in US) for two consecutive years, 2014 & 2015
-- Iranian National Elites Foundation fellowship, 2009-2013
+- First Rank Member of Iranian National Elites Foundation, 2009-2013
 - Semi-finalist in Iranian National Chemistry Olympiads, 2007
 - NSF Presenter Fellowship to ICTAM 2020+1
 - Congress grant by IUTAM for ICTAM 2020+1
