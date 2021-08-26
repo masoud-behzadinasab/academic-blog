@@ -29,6 +29,6 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: masoudbehzadinasab.github.io
+          #cname: masoudbehzadinasab.github.io
           allow_empty_commit: true
           external_repository: masoudbehzadinasab/masoudbehzadinasab.github.io
