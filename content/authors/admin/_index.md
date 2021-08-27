@@ -10,8 +10,8 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Brown University
-  url: https://www.brown.edu/
+- name: School of Engineering, Brown University
+  url: https://engineering.brown.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,9 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral researcher in the School of Engineering at Brown University (postdoc advisor: <a href="https://vivo.brown.edu/display/ybazilev">Prof. Yuri Bazilevs</a>). I joined Brown in January 2020 after finishing my Ph.D. in Engineering Mechanics at The University of Texas at Austin (PhD advisor: <a href="https://www.pge.utexas.edu/facultystaff/faculty-directory/foster">Prof. John Foster</a>). Prior to PhD, I received my BSc degree in Mechanical Engineering from Sharif University of Technology, Iran, in 2013, and my MSE degree in Mechanical Engineering from The University of Texas at Austin, USA, in 2015.
+I am a postdoctoral researcher in the School of Engineering at Brown University (postdoc advisor: <a href="https://vivo.brown.edu/display/ybazilev">Prof. Yuri Bazilevs</a>). I joined Brown in January 2020 after finishing my Ph.D. in Engineering Mechanics at The University of Texas at Austin (PhD advisor: <a href="https://www.pge.utexas.edu/facultystaff/faculty-directory/foster">Prof. John Foster</a>). Prior to PhD, I received my BSc degree in Mechanical Engineering from Sharif University of Technology, Iran, in 2013, and my MSE degree in Mechanical Engineering from The University of Texas at Austin in 2015.
 
-My **research interests** include computational mechanics, fracture mechanics, fluid-structure interaction, data-driven mechanics, and machine learning. My research is oriented toward developing accurate, efficient, and robust predictive models for simulating the behavior of solid structures and fluid flows in extreme conditions (e.g. blast events). In doing so, I consider the best of different numerical techniques as the ingredients of my computational framework. I use and develop meshfree methods (e.g. peridynamics), Galerkin methods (e.g. Isogeometric Analysis), and data-driven tools (e.g. Neural Networks) to tackle a wide range of engineering problems (see the {{< staticref "research" "newtab" >}}Research{{< /staticref >}} tab for more details and the {{< staticref "publication" "newtab" >}}Publication{{< /staticref >}} tab for a complete list of my papers).
+My **research interests** include computational mechanics, fracture mechanics, fluid-structure interaction, data-driven mechanics, and machine learning. My research is oriented toward developing accurate, efficient, and robust predictive models for simulating the behavior of solid structures and fluid flows in extreme conditions (e.g. blast events). In doing so, I consider the best of different numerical techniques as the ingredients of my computational framework. I use and develop meshfree methods (e.g. peridynamics), Galerkin methods (e.g. Isogeometric Analysis), and data-driven tools (e.g. Neural Networks) to tackle a wide range of engineering problems (see the {{< staticref "research" >}}Research{{< /staticref >}} tab for more details and the {{< staticref "publication" >}}Publication{{< /staticref >}} tab for a complete list of my papers).
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.-->
