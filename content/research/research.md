@@ -15,7 +15,46 @@ img {
 }
 </style>
 
-I consider the best of different numerical methods to build accurate, efficient, and robust predictive frameworks for tackling a variety of engineering challenges. My research involves usage and development of meshfree models (e.g. peridynamics), Galerkin methods (e.g. Isogeometric Analysis), and data-driven techniques (e.g. Neural Networks) for simulating the response of solid structures and fluid flows in extreme conditions (e.g. blast events).
+I consider the best of different numerical methods to build accurate, efficient, and robust predictive frameworks for tackling a variety of engineering challenges. My research involves the usage and development of meshfree models (e.g. peridynamics), Galerkin methods (e.g. Isogeometric Analysis), and data-driven techniques (e.g. Neural Networks) for simulating the mechanical response of different materials, solid structures, and fluid flows in extreme conditions (e.g. large deformation, fracture, and fragmentation events).
+
+
+
+<h2><span style="display:block; margin-top:30px; font-weight: bold;">A Peridynamic Model for Large Deformation and Failure Analysis of Thin-Walled Shell Structures</span></h2>
+
+<p>
+<figure>
+  <img align="right" Padding="210px" src="./figures/unifiedPD.png" width="700">
+</figure>
+  
+<p style='text-align: justify;'> 
+We present a comprehensive rotation-free Kirchhoff–-Love (KL) shell formulation for peridynamics (PD) that is capable of modeling large elasto-plastic deformations and fracture in thin-walled structures. To remove the need for a predefined global parametric domain, Principal Component Analysis is employed in a meshfree setting to develop a local parameterization of the shell midsurface. The KL shell kinematics is utilized to develop a correspondence-based PD formulation. A bond-stabilization technique is employed to naturally achieve stability of the discrete solution. Only the mid-surface velocity degrees of freedom are used in the governing thin-shell equations. 3D rate-form material models are employed to enable simulating a wide range of material behavior. A bond-associative damage correspondence modeling approach is adopted to use classical failure criteria at the bond level, which readily enables the simulation of brittle and ductile fracture. Discretizing the model with asymptotically compatible meshfree approximation provides a scheme which converges to the classical KL shell model while providing an accurate and flexible framework for treating fracture. A wide range of numerical examples, ranging from elastostatics to problems involving plasticity, fracture, and fragmentation, are conducted to validate the accuracy, convergence, and robustness of the developed PD thin-shell formulation. It is also worth noting that the present method naturally enables the discretization of a shell theory requiring higher-order smoothness on a completely unstructured surface mesh.
+
+  <span style="display:block; margin-top:20px; margin-bottom:-12px;">**Selected Publications**</span>
+
+  -  <a href="https://arxiv.org/abs/2107.13062">A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics</a>, <i>Preprint</i>, 2021. 
+
+</p>
+</p>
+
+
+
+<h2><span style="display:block; margin-top:30px; font-weight: bold;">Air-Blast Fluid-Structure Interaction Modeling Using an Immersed IGA-Peridynamics Approach</span></h2>
+
+<p>
+<figure>
+  <img align="right" Padding="210px" src="./figures/ABSI.png" width="700">
+</figure>
+  
+<p style='text-align: justify;'> 
+It is vital to mitigate the effects of blasts or hypervelocity impact on civil infrastructures. To assess the vulnerability of a given structure under blast loading, numerical simulations of such events can play an effective role in predicting the structural response.
+We have recently formulated a novel formulation based on an immersed coupling of Isogeometric Analysis (IGA) and Peridynamics (PD) for the simulation of fluid–structure interaction (FSI) phenomena for air blast. Our aim is to develop a practical computational framework that is capable of capturing the mechanics of air blast coupled to solids and structures that undergo large, inelastic deformations with extreme damage and fragmentation. An immersed technique is used, which involves an <i>a priori</i> monolithic FSI formulation with the implicit detection of the fluid-structure interface and without limitations on the solid domain motion. The coupled weak forms of the fluid and structural mechanics equations are solved on the background mesh. Correspondence-based PD is used to model the meshfree solid in the foreground domain. We employ the Non-Uniform Rational B-Splines (NURBS) IGA functions in the background and the Reproducing Kernel Particle Method (RKPM) functions for the PD solid in the foreground. We feel that the combination of these numerical tools is particularly attractive for the problem class of interest due to the higher-order accuracy and smoothness of IGA and RKPM, the benefits of using immersed methodology in handling the fluid-structure coupling, and the capabilities of PD in simulating fracture and fragmentation scenarios. A great deal of numerical complexity is eliminated as there is no need to explicitly track crack interface (advantage of using PD) or fluid-structure interfaces (advantage of using immersed techniques). The developed computational methodology is applied to the simulation of fracture in brittle and ductile solids in an air-blast environment.
+
+  <span style="display:block; margin-top:20px; margin-bottom:-12px;">**Selected Publications**</span>
+
+  -  <a href="https://arxiv.org/abs/2108.11265">Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach</a>, <i>Preprint</i>, 2021. 
+
+</p>
+</p>
 
 
 
