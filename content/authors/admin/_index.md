@@ -35,7 +35,7 @@ education:
     year: 2015
   - course: BSc in Mechanical Engineering
     institution: Sharif University of Technology
-    year: 2009
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
