@@ -8,7 +8,7 @@ design:
 ---
 
 ## **Organizer of Conferences or Professional Meetings**
-- Lead organizer, mini-symposium on Contemporary Meshfree Methods in Computational Mechanics, the 19th U.S. National Congress on Theoretical and Applied Mechanics <a href="http://www.usnctam2022.org">(USNC/TAM 2022)</a>, Austin, TX, 2022
+- Lead organizer, mini-symposium on Contemporary Meshfree Methods in Computational Mechanics, the 19th U.S. National Congress on Theoretical and Applied Mechanics <a href="https://www.usnctam2022.org">(USNC/TAM 2022)</a>, Austin, TX, 2022
 
 
 ## **Journal Reviewer**
