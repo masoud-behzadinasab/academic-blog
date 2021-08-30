@@ -15,7 +15,7 @@ img {
 }
 </style>
 
-I consider the best of different numerical methods to build accurate, efficient, and robust predictive frameworks for tackling a variety of engineering challenges. My research involves the usage and development of meshfree models (e.g. peridynamics), Galerkin methods (e.g. Isogeometric Analysis), and data-driven techniques (e.g. Neural Networks) for simulating the mechanical response of different materials, solid structures, and fluid flows in extreme conditions (e.g. large deformation, fracture, and fragmentation events).
+I consider the best of different numerical methods to build accurate, efficient, and robust predictive frameworks for tackling a variety of engineering challenges. My research involves the usage and development of meshfree models (e.g. peridynamics), finite element and isogeometric analysis, and data-driven techniques (e.g. Neural Networks) for simulating the mechanical response of different materials, solid structures, and fluid flows in extreme conditions (e.g. large deformation, fracture, and fragmentation events).
 
 
 
