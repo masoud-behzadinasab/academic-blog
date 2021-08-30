@@ -16,7 +16,7 @@ design:
 - The University of Texas at Austin (UT) Graduate Continuing Fellowship, 2018
 - Ranked 2nd among 310,000+ participants in the Iranian Nationwide University Entrance Exam, 2009
 - Honorary Award by the Iranian Ministry of Science, Research and Technology, 2009
-- Dean's Honorary Award by Sharif University of Technology, 2009
+- Dean's Honorary Award by the President of Sharif University of Technology, 2009
 - Poster award winner, UT Graduate And Industry Networking Event, 2018
 - The University of Texas incoming graduate student full scholarship, 2013
 - SIAWE Scholarship (an award for talented Iranian students in US) for two consecutive years, 2014 & 2015
