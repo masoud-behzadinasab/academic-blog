@@ -17,6 +17,7 @@ design:
 - Computer Methods in Applied Mechanics and Engineering
 - Computational Mechanics
 - Engineering Fracture Mechanics
+- International Journal for Numerical Methods in Engineering
 - International Journal for Multiscale Computational Engineering
 - Computational Geosciences
 - Journal of Natural Gas Science and Engineering
