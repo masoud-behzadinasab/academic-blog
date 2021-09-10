@@ -7,11 +7,11 @@ design:
   columns: '1'
 ---
 
-## **Organizer of Conferences or Professional Meetings**
+## **Technical Program Committees**
 - Lead organizer, mini-symposium on Contemporary Meshfree Methods in Computational Mechanics, the 19th U.S. National Congress on Theoretical and Applied Mechanics <a href="https://www.usnctam2022.org">(USNC/TAM 2022)</a>, Austin, TX, 2022
 
 
-## **Journal Reviewer**
+## **Journal Reviews**
 - International Journal of Solids and Structures
 - International Journal of Fracture
 - Computer Methods in Applied Mechanics and Engineering
@@ -22,8 +22,9 @@ design:
 - Computational Geosciences
 - Journal of Natural Gas Science and Engineering
 - Mathematical Problems in Engineering
+- Fluids
 
-## **Conference Reviewer**
+## **Conference Reviews**
 - The ARMA 53rd US Rock Mechanics/Geomechanics Symposium, New York City, 2019
 
 ## **Memberships**
