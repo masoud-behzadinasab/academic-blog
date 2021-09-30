@@ -13,7 +13,7 @@ In a period of progressive movements for social equality for all groups of peopl
 
 To contribute to addressing this issue, and inspired by similar initiatives by fellow academics, I would like to launch the **Computational and Data Science and Engineering Mentorship (CDSEM) program**. Annually, I will offer support to two **high school, college, or undergraduate students from underrepresented communities** who wish to pursue a career in **Science, Technology, Engineering, and Mathematics (STEM)**. The mentorship will be provided for each mentee up to three years, in which they will build their self-confidence and understanding, learn how to define clear goals, and eventually, shape a proper portfolio and prepare for an impactful journey in STEM fields.
 
-Underrepresented minority students are encouraged to apply. If you are interested in the program, please apply before November 30, 2021 with:
+Underrepresented minority students are encouraged to apply. If you are interested in the program, please apply before December 15, 2021 with:
 1. 1- or 2-page statement describing your interests within computational science and engineering, data science and engineering, and/or applied mathematics and how you wish to contribute to STEM
 2. CV or resume
 3. Letter of recommendation from your teacher/professor (optional)
