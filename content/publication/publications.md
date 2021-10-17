@@ -13,7 +13,6 @@ design:
 
 ## **Preprints**
 <ol reversed>
-  <li><b>Behzadinasab M</b>, Moutsanidis G, Trask N, Foster JT, Bazilevs Y. "Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach". <i>Preprint</i>. 2021. <a href="https://arxiv.org/abs/2108.11265">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Alaydin M, Trask N, Bazilevs Y. "A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics". <i>Preprint</i>. 2021. <a href="https://arxiv.org/abs/2107.13062">(Link)</a></li>
 </ol>
 
@@ -21,6 +20,7 @@ design:
 
 ## **Journal Papers**
 <ol reversed>
+  <li><b>Behzadinasab M</b>, Moutsanidis G, Trask N, Foster JT, Bazilevs Y. "Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach". <i>Forces in Mechanics</i>. 4:100045. 2021. <a href="https://www.sciencedirect.com/science/article/pii/S2666359721000366">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Foster JT, Bazilevs Y. "A Unified, Stable and Accurate Meshfree Framework for Peridynamic Correspondence Modeling—Part II: Wave Propagation and Enforcement of Stress Boundary Conditions". <i>Journal of Peridynamics and Nonlocal Modeling</i>. 3(1):46-66. 2021. <a href="https://link.springer.com/article/10.1007/s42102-020-00039-6">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Trask N, Bazilevs Y. "A Unified, Stable and Accurate Meshfree Framework for Peridynamic Correspondence Modeling—Part I: Core Methods". <i>Journal of Peridynamics and Nonlocal Modeling</i>. 3(1):24-45. 2021. <a href="https://link.springer.com/article/10.1007/s42102-020-00040-z">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Foster JT. "Revisiting the Third Sandia Fracture Challenge: A Bond-Associated, Semi-Lagrangian Peridynamic Approach to Modeling Large Deformation and Ductile Fracture". <i>International Journal of Fracture</i>. 224:261-7. 2020. <a href="https://link.springer.com/article/10.1007/s10704-020-00455-1">(Link)</a></li>
