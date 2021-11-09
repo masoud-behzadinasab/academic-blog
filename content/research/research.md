@@ -53,6 +53,7 @@ We have recently formulated a novel formulation based on an immersed coupling of
   <span style="display:block; margin-top:20px; margin-bottom:-12px;">**Selected Publications**</span>
 
   -  <a href="https://www.sciencedirect.com/science/article/pii/S2666359721000366">Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach</a>, <i>Forces in Mechanics</i>, 2021. 
+  -  <a href="https://arxiv.org/abs/2111.03767">IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation</a>, <i>Preprint</i>, 2021.
 
 </p>
 </p>
