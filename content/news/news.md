@@ -8,7 +8,7 @@ design:
 ---
 
 
-- **Nov. 2021**: New open-source code out - <a href="https://github.com/masoudbehzadinasab/PD_Shell">"A C++ code based on the general-purpose, inelastic, rotation-free Kirchhoff-Love shell formulation for peridynamics"</a>
+- **Nov. 2021**: New open-source code out <a href="https://github.com/masoudbehzadinasab/PD_Shell">"A C++ code based on the general-purpose, inelastic, rotation-free Kirchhoff-Love shell formulation for peridynamics"</a>
 - **Nov. 2021**: New paper out <a href="https://arxiv.org/abs/2111.03767">"IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation"</a>
 - **Oct. 2021**: <a href="https://www.sciencedirect.com/science/article/pii/S2666359721000366">"Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach"</a> is accepted to _Forces in Mechanics_
 - **Sept. 2021**: Launched the {{< staticref "mentorship" >}}Computational and Data Science and Engineering Mentorship (CDSEM){{< /staticref >}} program for high school or college students from underrepresented communities
