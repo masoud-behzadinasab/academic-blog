@@ -13,6 +13,8 @@ design:
 
 ## **Preprints**
 <ol reversed>
+
+  <li><b>Behzadinasab M</b>, Hillman M, Bazilevs Y. "IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation". <i>Preprint</i>. 2021. <a href="https://arxiv.org/abs/2111.03767">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Alaydin M, Trask N, Bazilevs Y. "A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics". <i>Preprint</i>. 2021. <a href="https://arxiv.org/abs/2107.13062">(Link)</a></li>
 </ol>
 
