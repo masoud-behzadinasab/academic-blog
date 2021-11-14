@@ -56,6 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/masoudbehzadinasab
+- icon: github
+  icon_pack: fab
+  link: https://github.com/masoudbehzadinasab
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/CV.pdf`, enable `ai` icons in `params.toml`, 
