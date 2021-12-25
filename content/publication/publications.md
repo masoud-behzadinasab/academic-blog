@@ -11,17 +11,17 @@ design:
   columns: '1'
 ---
 
-## **Preprints**
-<ol reversed>
+<!--## **Preprints**-->
+<!--<ol reversed>-->
 
-  <li><b>Behzadinasab M</b>, Hillman M, Bazilevs Y. "IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation". <i>Preprint</i>. 2021. <a href="https://arxiv.org/abs/2111.03767">(Link)</a></li>
-  <li><b>Behzadinasab M</b>, Alaydin M, Trask N, Bazilevs Y. "A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics". <i>Preprint</i>. 2021. <a href="https://arxiv.org/abs/2107.13062">(Link)</a></li>
-</ol>
+<!--</ol>-->
 
 
 
 ## **Journal Papers**
 <ol reversed>
+  <li><b>Behzadinasab M</b>, Alaydin M, Trask N, Bazilevs Y. "A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics". <i>Computer Methods in Applied Mechanics and Engineering</i>. 389:114422. 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0045782521006678">(Link)</a></li>
+  <li><b>Behzadinasab M</b>, Hillman M, Bazilevs Y. "IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation". <i>Journal of Mechanics</i>. 37:680–692. 2021. <a href="https://academic.oup.com/jom/article/doi/10.1093/jom/ufab033/6479818">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Moutsanidis G, Trask N, Foster JT, Bazilevs Y. "Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach". <i>Forces in Mechanics</i>. 4:100045. 2021. <a href="https://www.sciencedirect.com/science/article/pii/S2666359721000366">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Foster JT, Bazilevs Y. "A Unified, Stable and Accurate Meshfree Framework for Peridynamic Correspondence Modeling—Part II: Wave Propagation and Enforcement of Stress Boundary Conditions". <i>Journal of Peridynamics and Nonlocal Modeling</i>. 3(1):46-66. 2021. <a href="https://link.springer.com/article/10.1007/s42102-020-00039-6">(Link)</a></li>
   <li><b>Behzadinasab M</b>, Trask N, Bazilevs Y. "A Unified, Stable and Accurate Meshfree Framework for Peridynamic Correspondence Modeling—Part I: Core Methods". <i>Journal of Peridynamics and Nonlocal Modeling</i>. 3(1):24-45. 2021. <a href="https://link.springer.com/article/10.1007/s42102-020-00040-z">(Link)</a></li>

@@ -32,7 +32,7 @@ Low-weight components are widely used in the design of engineering structures, w
 
   <span style="display:block; margin-top:20px; margin-bottom:-12px;">**Selected Publications**</span>
 
-  -  <a href="https://arxiv.org/abs/2107.13062">A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics</a>, <i>Preprint</i>, 2021. 
+  -  <a href="https://www.sciencedirect.com/science/article/pii/S0045782521006678">A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics</a>, <i>Computer Methods in Applied Mechanics and Engineering</i>, 2022. 
 
 </p>
 </p>
@@ -53,7 +53,7 @@ We have recently formulated a novel formulation based on an immersed coupling of
   <span style="display:block; margin-top:20px; margin-bottom:-12px;">**Selected Publications**</span>
 
   -  <a href="https://www.sciencedirect.com/science/article/pii/S2666359721000366">Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach</a>, <i>Forces in Mechanics</i>, 2021. 
-  -  <a href="https://arxiv.org/abs/2111.03767">IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation</a>, <i>Preprint</i>, 2021.
+  -  <a href="https://academic.oup.com/jom/article/doi/10.1093/jom/ufab033/6479818">IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation</a>, <i>Journal of Mechanics</i>, 2021.
 
 </p>
 </p>
