@@ -16,7 +16,7 @@ content:
   page_type: widget
 ---
 
--  <a href="https://arxiv.org/abs/2107.13062">A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics</a>, <i>Preprint</i>, 2021. 
+-  <a href="https://www.sciencedirect.com/science/article/pii/S0045782521006678">A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics</a>, <i>Computer Methods in Applied Mechanics and Engineering</i>, 2022.
 -  <a href="https://www.sciencedirect.com/science/article/pii/S2666359721000366">Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach</a>, <i>Forces in Mechanics</i>, 2021. 
 -  <a href="https://www.sciencedirect.com/science/article/pii/S0022509619309512">A Semi-Lagrangian Constitutive Correspondence Framework for Peridynamics</a>, <i>Journal of the Mechanics and Physics of Solids</i>, 2020. 
 -  <a href="https://www.sciencedirect.com/science/article/pii/S0020768319303506">On the Stability of the Generalized, Finite Deformation Correspondence Model of Peridynamics</a>, <i>International Journal of Solids and Structures</i>, 2020. 
