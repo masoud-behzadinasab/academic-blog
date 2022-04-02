@@ -30,9 +30,9 @@ main:
     url: "uploads/CV.pdf"
     hrefTargetBlank: true
     weight: 8
-  - name: Mentorship
-    url: "mentorship/"
-    weight: 9
+  #- name: Mentorship
+    #url: "mentorship/"
+    #weight: 9
   - name: Contact
     url: '#contact'
     weight: 10
