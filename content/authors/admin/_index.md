@@ -6,12 +6,12 @@ title: Masoud Behzadinasab
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Sr. Innovation Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Engineering, Brown University
-  url: https://engineering.brown.edu/
+- name: PTC
+  url: https://www.ptc.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
