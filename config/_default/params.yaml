@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: masoud_behzadinasab@brown.edu
+email: behzadinasab.masoud@gmail.com
 #phone: 888 888 88 88
 address:
-  street: 184 Hope St.
-  city: Providence
-  region: RI
-  postcode: '02912'
+  #street: 184 Hope St.
+  city: Austin
+  region: TX
+  #postcode: '02912'
   country: United States
   country_code: US
 #coordinates:
   #latitude: '37.4275'
   #longitude: '-122.1697'
-directions: School of Engineering, Brown University
+#directions: School of Engineering, Brown University
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
   #- 'Monday 10:00 to 13:00'
