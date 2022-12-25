@@ -23,6 +23,7 @@ design:
 - Computational Geosciences
 - Journal of Natural Gas Science and Engineering
 - Mathematical Problems in Engineering
+- Materials
 - Fluids
 
 ## **Conference Reviews**

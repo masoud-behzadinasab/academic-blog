@@ -8,6 +8,7 @@ design:
 ---
 
 
+- **Nov. 2022**: Received the _Journal of Mechanics_ 2022 Best Paper Award for <a href="https://academic.oup.com/jom/article/doi/10.1093/jom/ufab033/6479818">"IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction"</a>
 - **Aug. 2022**: <a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202522500580">"Simulating air blast on concrete structures using the volumetric penalty coupling of isogeometric analysis and peridynamics"</a> is accepted to _Mathematical Models and Methods in Applied Sciences_
 - **Jul. 2022**: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782522004509">"Reduced quadrature for Finite Element and Isogeometric methods in nonlinear solids"</a> is accepted to _Computer Methods in Applied Mechanics and Engineering_
 - **Jun. 2022**: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020768322002736">"Isogeometric analysis of multilayer composite shell structures: Plasticity, damage, delamination and impact modeling"</a> is accepted to _International Journal of Solids and Structures_
