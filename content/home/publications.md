@@ -17,7 +17,7 @@ content:
 ---
 
 -  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0020768322002736">"Isogeometric analysis of multilayer composite shell structures: Plasticity, damage, delamination and impact modeling"</a>, <i>International Journal of Solids and Structures</i>
--  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022509622001442">"Simulating concrete failure using the Microplane (M7) constitutive model in correspondence-based peridynamics: Validation for classical fracture tests and extension to discrete fracture"</a>, <i<Journal of the Mechanics and Physics of Solids</i>
+-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022509622001442">"Simulating concrete failure using the Microplane (M7) constitutive model in correspondence-based peridynamics: Validation for classical fracture tests and extension to discrete fracture"</a>, <i>Journal of the Mechanics and Physics of Solids</i>
 -  <a href="https://www.sciencedirect.com/science/article/pii/S0045782521006678">A General-Purpose, Inelastic, Rotation-Free Kirchhoff-Love Shell Formulation for Peridynamics</a>, <i>Computer Methods in Applied Mechanics and Engineering</i>, 2022.
 -  <a href="https://www.sciencedirect.com/science/article/pii/S2666359721000366">Coupling of IGA and Peridynamics for Air-Blast Fluid-Structure Interaction Using an Immersed Approach</a>, <i>Forces in Mechanics</i>, 2021. 
 -  <a href="https://www.sciencedirect.com/science/article/pii/S0022509619309512">A Semi-Lagrangian Constitutive Correspondence Framework for Peridynamics</a>, <i>Journal of the Mechanics and Physics of Solids</i>, 2020. 
