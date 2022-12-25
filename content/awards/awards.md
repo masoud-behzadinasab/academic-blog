@@ -11,6 +11,7 @@ design:
   columns: '1'
 ---
 
+- Journal of Mechanics Best Paper Award for IGA-PD Penalty-Based Coupling for Immersed Air-Blast Fluid-Structure Interaction: A Simple and Effective Solution for Fracture and Fragmentation, 2022
 - Selected to be a member of the inaugural class of Thomas J. R. Hughes Fellows (USNC/TAM), 2021
 - Winner of the Best Student Poster Competition on Computational Mechanics (ASME--AMD), IMECE 2019
 - The University of Texas at Austin (UT) Graduate Continuing Fellowship, 2018--19

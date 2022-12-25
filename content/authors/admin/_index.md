@@ -19,9 +19,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Computational Mechanics
+- Solid Mechanics
 - Fracture Mechanics
 - Fluid-Structure Interaction
-- Structural Mechanics
+- Topology Optimization
 - Data-Driven Mechanics
 - Machine Learning
 

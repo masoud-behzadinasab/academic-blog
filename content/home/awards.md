@@ -16,6 +16,7 @@ content:
   page_type: widget
 ---
 
+- Journal of Mechanics Best Paper Award, 2022
 - Selected to be a member of the inaugural class of Thomas J. R. Hughes Fellows, 2021
 - Winner of the Best Student Poster Competition on Computational Mechanics, IMECE 2019
 - The University of Texas at Austin Graduate Continuing Fellowship, 2018
