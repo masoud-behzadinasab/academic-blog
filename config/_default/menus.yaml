@@ -30,12 +30,12 @@ main:
     url: "uploads/CV.pdf"
     hrefTargetBlank: true
     weight: 8
-  - name: Mentorship
-    url: "mentorship/"
-    weight: 9
+  #- name: Mentorship
+    #url: "mentorship/"
+    #weight: 9
   - name: Contact
     url: '#contact'
-    weight: 10
+    weight: 9
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
